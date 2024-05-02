@@ -1,6 +1,6 @@
 # ADB Root
 
-Android 9/10 only. Will not work on Android 11.
+Android 9/10 only. Will not work on Android 11, nor 13.
 
 You don't need this module if you don't know what is "adb root". It's not an
 ordinary root (su), it's the adbd daemon running on your phone with root rights.
